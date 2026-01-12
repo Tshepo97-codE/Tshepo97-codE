@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tshepo Manyisa  
 
-🎓 **Second-Year Computer Science Student** | 💻 Aspiring **Software Developer & Cybersecurity Enthusiast**  
+🎓 **Third-Year Computer Science Student** | 💻 Aspiring **Software Developer & Cybersecurity Enthusiast**  
 🌍 Based in **South Africa** | Always learning, building, and exploring technology  
 
 ---
