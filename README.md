@@ -36,25 +36,43 @@ I’m seeking an **internship or collaborative project** where I can learn, cont
 
 ## 🧩 Featured Projects  
 
-### 🚍 Public Transport Queue Simulation (C++)  
-Simulated a public transport queue system using **queues and stacks** to model passenger flow and optimize service handling.
+### 💰 Personal Expense Tracker (Python)  
+A console-based Python application for recording, viewing, and analyzing personal expenses using CSV file storage.  
+**Status:** Work in Progress  
+🔗 https://github.com/Tshepo97-codE/Personal-Expense-Tracker  
 
-### 💰 University Tuition Fee Predictor (Python)  
-Developing a **machine learning model** to predict tuition fees based on structured, historical data.  
+---
 
-### 🗄️ Database Design Project (SQL)  
-Creating a relational database schema with **constraints, joins, and ER diagrams** for improved data consistency.  
+### 📚 Library Management System (C++)  
+An object-oriented console/Qt-based library management system implementing encapsulation, inheritance, and file handling.  
+🔗 https://github.com/Tshepo97-codE/LibraryManagementSystem  
 
-### 🔐 Password Security Practice (Kali Linux)  
-Used **John the Ripper** for ethical password cracking to learn about secure password storage and hashing.
+---
+
+### 🛡️ FNB Fraud Detection Software (Machine Learning)  
+An AI-based fraud detection project exploring supervised learning models and data preprocessing techniques.  
+**Status:** In Progress  
+🔗 https://github.com/Tshepo97-codE/FNB_Fraud_Detection_Software  
+
+---
+
+### 🌐 Cisco Packet Tracer Labs  
+A networking lab project containing multiple topologies and configurations built in a single Packet Tracer file.  
+🔗 https://github.com/Tshepo97-codE/Cisco-Packet-Tracer-Lab  
+
+---
+
+### 🧮 C++ Programming & Data Structures  
+A collection of C++ programs and exercises focused on core data structures and algorithmic problem-solving.  
+🔗 https://github.com/Tshepo97-codE/Cpp-Programming-Data-Structures  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo97-codE&show_icons=true&theme=react&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo97-codE&layout=compact&theme=react&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo97-codE&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo97-codE&layout=compact&hide_border=true" />
 </p>
 
 ---
