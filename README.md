@@ -71,10 +71,17 @@ A collection of C++ programs and exercises focused on core data structures and a
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshepo97-codE&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo97-codE&layout=compact&hide_border=true" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tshepo97-codE&show_icons=true&hide_border=true&theme=dark" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo97-codE&layout=compact&hide_border=true&theme=dark" height="170" />
+      </td>
+    </tr>
+  </table>
 </p>
-
 ---
 
 ## 🌱 Currently Learning  
