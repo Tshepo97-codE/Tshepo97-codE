@@ -87,7 +87,7 @@ A collection of C++ programs and exercises focused on core data structures and a
 
 ## 💬 Let’s Connect  
 <p align="left">
-  <a href="www.linkedin.com/in/tshepo-manyisa-b7b731149" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/tshepo-manyisa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Tshepocollen79@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Tshepo97-codE"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
