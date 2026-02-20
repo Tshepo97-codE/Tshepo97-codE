@@ -52,7 +52,7 @@ An object-oriented console/Qt-based library management system implementing encap
 ### 🛡️ Fraud Detection Software (Machine Learning)  
 An AI-based fraud detection project exploring supervised learning models and data preprocessing techniques.  
 **Status:** In Progress  
-🔗 https://github.com/Tshepo97-codE/FNB_Fraud_Detection_Software  
+🔗 https://github.com/Tshepo97-codE/Fraud_Detection_Software  
 
 ---
 
