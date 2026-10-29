@@ -1,76 +1,81 @@
 # 👋 Hi, I'm Tshepo Manyisa
 
-**ML engineer focused on explainable AI in finance and risk.**
+**Aspiring ML / MLOps engineer focused on explainable AI in finance and risk.**
 
-🎓 Final-year BSc Computer Science student | 🌍 South Africa
-📫 Seeking a graduate or junior role in machine learning, data science or MLOps
+🎓 Final-year BSc Computer Science student | 🌍 Johannesburg, South Africa  
+📫 Open to graduate and junior roles in **machine learning, data science, and MLOps**
 
----
+## 🚀 About me
 
-## 🚀 About Me
-I build machine-learning systems that people can understand and trust, from data and modelling through to deployment. My interest is in fraud and risk models where a prediction needs a reason behind it, not just a score.
+I build machine-learning systems that people can understand and trust—from data preparation and modelling through to deployment and monitoring.  
 
----
+I am especially interested in **fraud, credit risk, and financial-risk models**, where a prediction needs an explanation, not just a score.
 
-## 🧩 Featured Projects
+## 🧩 Featured projects
 
-### 🛡️ Fraud Detection Software
-Fraud detection system taken from a broken dashboard to a deployed ML service: Random Forest classifier with SMOTE for class imbalance, SHAP explanations, a Flask API, a Streamlit frontend and a CI/CD pipeline.
-**Stack:** Python, scikit-learn, SMOTE, SHAP, Flask, Streamlit, CI/CD
-**Result:** [add precision / recall / F1 and dataset size]
-🔗 https://github.com/Tshepo97-codE/Fraud_Detection_Software
+### ⚙️ [PayShap Real-Time Fraud Detection — MLOps Capstone](https://github.com/Tshepo97-codE/MLOps_Capstone)
 
-### 🏦 x-scrm: Explainable Third-Party Cyber Risk
-Explainable AI system that helps financial institutions assess, understand and mitigate cyber risks introduced by third-party vendors.
-**Stack:** Python, machine learning
-**Result:** [add model metric or what the system outputs]
-🔗 https://github.com/Tshepo97-codE/x-scrm
+An end-to-end production ML system for real-time payment-fraud detection, designed to go beyond notebook-based modelling.
 
-### ⚙️ MLOps Capstone
-End-to-end production ML engineering system, built to show the full path beyond training a model in a notebook.
-**Stack:** [confirm: e.g. MLflow, DVC, Docker, CI/CD]
-🔗 https://github.com/Tshepo97-codE/MLOps_Capstone
+- Reproducible data and training pipelines with **DVC**
+- Experiment tracking and model registry with **MLflow**
+- Model serving through a **FastAPI** inference API
+- Automated tests, Docker packaging, and CI/CD
+- Latency benchmarking and production-oriented feature engineering
 
-### 🧬 Discovery LifeOS *(Discovery GradHack)*
-Full-stack behavioural intelligence platform that predicts wellness, nutrition and mobility outcomes from synthetic South African data, with SHAP explanations for each prediction.
-**Stack:** XGBoost, SHAP, FastAPI, React, Vite, Tailwind, Docker, GitHub Actions
-🔗 https://github.com/Tshepo97-codE/Discovery-LifeOs
+**Stack:** Python, DVC, MLflow, FastAPI, Docker, pytest, GitHub Actions  
+**Result:** [Add recall/precision/F1, dataset size, and API latency.]
 
-### 💬 NLP Intent Clustering
-Unsupervised NLP pipeline that discovers and categorises user intents from unlabelled chatbot conversations.
+### 🛡️ [Financial Fraud Detection System](https://github.com/Tshepo97-codE/Fraud_Detection_Software)
+
+A fraud-detection project covering the full workflow from exploratory analysis to a deployed, explainable ML service.
+
+- Trained a Random Forest classifier for fraud classification
+- Addressed class imbalance using **SMOTE**
+- Explained predictions with **SHAP**
+- Served predictions through a Flask API and Streamlit dashboard
+- Containerised the system and added a CI/CD pipeline
+
+**Stack:** Python, scikit-learn, imbalanced-learn, SHAP, Flask, Streamlit, Docker, GitHub Actions  
+**Result:** [Add precision/recall/F1 and dataset size.]
+
+### 🏦 [x-scrm: Explainable Third-Party Cyber Risk](https://github.com/Tshepo97-codE/x-scrm)
+
+An explainable AI system that helps financial institutions assess, understand, and mitigate cyber risks introduced by third-party vendors.
+
+**Stack:** Python, machine learning, explainable AI  
+**Output:** [Add the risk score, explanation output, model metric, or demo result.]
+
+### 🧬 [Discovery LifeOS — Discovery GradHack](https://github.com/Tshepo97-codE/Discovery-LifeOs)
+
+A full-stack behavioural-intelligence platform that predicts wellness, nutrition, and mobility outcomes from synthetic South African data, with SHAP-based explanations.
+
+**Stack:** Python, XGBoost, SHAP, FastAPI, React, Vite, Tailwind, Docker, GitHub Actions
+
+### 💬 [NLP Intent Clustering](https://github.com/Tshepo97-codE/nlp-intent-clustering)
+
+An unsupervised NLP pipeline that discovers and categorises user intents from unlabelled chatbot conversations.
+
 **Stack:** Python, NLP, clustering
-🔗 https://github.com/Tshepo97-codE/nlp-intent-clustering
 
----
+## 🧰 Skills and tools
 
-## 🧰 Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,docker,githubactions,fastapi,flask,react,mysql,linux,git,github" />
-</p>
-
-- **Machine learning:** scikit-learn, XGBoost, SHAP, SMOTE, NLP, model evaluation
-- **MLOps:** Docker, GitHub Actions CI/CD, MLflow, DVC
-- **APIs and apps:** FastAPI, Flask, Streamlit, React
-- **Data:** Python, SQL, relational design
-- **Also:** C++, Linux, digital forensics (CTF)
-
----
+**Machine learning:** Python, scikit-learn, XGBoost, SHAP, SMOTE, model evaluation, feature engineering  
+**MLOps:** Docker, GitHub Actions, CI/CD, MLflow, DVC, model versioning  
+**APIs and deployment:** FastAPI, Flask, Streamlit, REST APIs, Docker  
+**Data:** SQL, MySQL, relational database design, pandas, NumPy  
+**Software engineering:** Git, GitHub, pytest, Linux, C++, data structures and algorithms  
 
 ## 🏆 Hackathons
-- **Discovery GradHack:** built Discovery LifeOS (above)
-- **SS26Hack IDEATHON 2026 (Team KanshaBT):** six forensic CTF challenges with Wireshark, Volatility 3 and MITRE ATT&CK mapping
 
----
+- **Discovery GradHack** — built Discovery LifeOS, an AI-powered behavioural-intelligence platform.
+- **SS26Hack IDEATHON 2026 (Team KanshaBT)** — solved six digital-forensics CTF challenges using Wireshark, Volatility 3, and MITRE ATT&CK mapping.
 
-## 🌱 Currently Learning
-- Model explainability and fairness in credit and fraud models
-- Experiment tracking and reproducible ML pipelines
+## 🌱 Currently learning
 
----
+- Fairness, calibration, and explainability in credit and fraud models
+- Production monitoring, drift detection, and reproducible ML pipelines
 
-## 💬 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/tshepo-manyisa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Tshepocollen79@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Tshepo97-codE"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-</p>
+## 💬 Let’s connect
+
+[LinkedIn](https://www.linkedin.com/in/tshepo-manyisa) • [Email](mailto:Tshepocollen79@gmail.com) • [GitHub](https://github.com/Tshepo97-codE)
