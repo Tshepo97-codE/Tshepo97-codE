@@ -7,7 +7,7 @@
 
 ## 🚀 About me
 
-I build machine-learning systems that people can understand and trust—from data preparation and modelling through to deployment and monitoring.  
+I build machine-learning systems that people can understand and trust from data preparation and modelling through to deployment and monitoring.  
 
 I am especially interested in **fraud, credit risk, and financial-risk models**, where a prediction needs an explanation, not just a score.
 
