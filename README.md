@@ -21,7 +21,7 @@
 
 ## 🚀 About me
 
-I build machine-learning systems that people can understand and trust—from data preparation and modelling through to deployment and monitoring.
+I build machine-learning systems that people can understand and trust from data preparation and modelling through to deployment and monitoring.
 
 I am especially interested in **fraud, credit risk, and financial-risk models**, where a prediction needs an explanation, not just a score.
 
@@ -107,8 +107,8 @@ An unsupervised NLP pipeline that discovers and categorises user intents from un
 
 ## 🏆 Hackathons
 
-- **Discovery GradHack** — built Discovery LifeOS, an AI-powered behavioural-intelligence platform.
-- **SS26Hack IDEATHON 2026 (Team KanshaBT)** — solved six digital-forensics CTF challenges using Wireshark, Volatility 3, and MITRE ATT&CK mapping.
+- **Discovery GradHack:** built Discovery LifeOS, an AI-powered behavioural-intelligence platform.
+- **SS26Hack IDEATHON 2026 (Team KanshaBT):** solved six digital-forensics CTF challenges using Wireshark, Volatility 3, and MITRE ATT&CK mapping.
 
 ---
 
