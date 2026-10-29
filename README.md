@@ -107,8 +107,8 @@ An unsupervised NLP pipeline that discovers and categorises user intents from un
 
 ## 🏆 Hackathons
 
-- **Discovery GradHack:** built Discovery LifeOS, an AI-powered behavioural-intelligence platform.
-- **SS26Hack IDEATHON 2026 (Team KanshaBT):** solved six digital-forensics CTF challenges using Wireshark, Volatility 3, and MITRE ATT&CK mapping.
+- **Discovery GradHack:** Built Discovery LifeOS, an AI-powered behavioural-intelligence platform.
+- **SS26Hack IDEATHON 2026 (Team KanshaBT):** Solved six digital-forensics CTF challenges using Wireshark, Volatility 3, and MITRE ATT&CK mapping.
 
 ---
 
