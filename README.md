@@ -78,21 +78,23 @@ An unsupervised NLP pipeline that discovers and categorises user intents from un
 
 ## 🧰 Skills and tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" />
-  <img src="https://img.shields.io/badge/SHAP-FF0051?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/E70488" height="42" alt="pandas" title="pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="42" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="42" alt="MLflow" title="MLflow" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dvc/945DD6" height="42" alt="DVC" title="DVC" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/3BABC3" height="42" alt="Flask" title="Flask" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit" title="Streamlit" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="42" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++" title="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8B949E" height="42" alt="GitHub" title="GitHub" />
 </p>
 
 **Machine learning:** Python, scikit-learn, XGBoost, SHAP, SMOTE, model evaluation, feature engineering  
