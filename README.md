@@ -29,7 +29,7 @@ I am especially interested in **fraud, credit risk, and financial-risk models**,
 
 ## 🧩 Featured projects
 
-### ⚙️ [PayShap Real-Time Fraud Detection — MLOps Capstone](https://github.com/Tshepo97-codE/MLOps_Capstone)
+### ⚙️ [PayShap Real-Time Fraud Detection - MLOps Capstone](https://github.com/Tshepo97-codE/MLOps_Capstone)
 
 An end-to-end production ML system for real-time payment-fraud detection, designed to go beyond notebook-based modelling.
 
@@ -62,7 +62,7 @@ An explainable AI system that helps financial institutions assess, understand, a
 **Stack:** Python, machine learning, explainable AI  
 **Output:** [Add the risk score, explanation output, model metric, or demo result.]
 
-### 🧬 [Discovery LifeOS — Discovery GradHack](https://github.com/Tshepo97-codE/Discovery-LifeOs)
+### 🧬 [Discovery LifeOS - Discovery GradHack](https://github.com/Tshepo97-codE/Discovery-LifeOs)
 
 A full-stack behavioural-intelligence platform that predicts wellness, nutrition, and mobility outcomes from synthetic South African data, with SHAP-based explanations.
 
