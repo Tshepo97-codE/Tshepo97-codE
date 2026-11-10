@@ -40,7 +40,7 @@ An end-to-end production ML system for real-time payment-fraud detection, design
 - Latency benchmarking and production-oriented feature engineering
 
 **Stack:** Python, DVC, MLflow, FastAPI, Docker, pytest, GitHub Actions  
-**Result:** [Add recall/precision/F1, dataset size, and API latency.]
+**Result:** [Add recall/precision/F1, dataset size, and API latency.] In progress
 
 ### 🛡️ [Financial Fraud Detection System](https://github.com/Tshepo97-codE/Fraud_Detection_Software)
 
@@ -60,7 +60,7 @@ A fraud-detection project covering the full workflow from exploratory analysis t
 An explainable AI system that helps financial institutions assess, understand, and mitigate cyber risks introduced by third-party vendors.
 
 **Stack:** Python, machine learning, explainable AI  
-**Output:** [Add the risk score, explanation output, model metric, or demo result.]
+**Output:** [Add the risk score, explanation output, model metric, or demo result.] In progress
 
 ### 🧬 [Discovery LifeOS - Discovery GradHack](https://github.com/Tshepo97-codE/Discovery-LifeOs)
 
