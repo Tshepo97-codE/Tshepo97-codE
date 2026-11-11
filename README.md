@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  🎓 Final-year BSc Computer Science student &nbsp;|&nbsp; 🌍 Johannesburg, South Africa<br>
+  🎓 Final-year BSc Computing student &nbsp;|&nbsp; 🌍 Johannesburg, South Africa<br>
   📫 Open to graduate and junior roles in <b>machine learning, data science, and MLOps</b>
 </p>
 
