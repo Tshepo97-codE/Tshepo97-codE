@@ -55,12 +55,13 @@ A fraud-detection project covering the full workflow from exploratory analysis t
 **Stack:** Python, scikit-learn, imbalanced-learn, SHAP, Flask, Streamlit, Docker, GitHub Actions  
 **Result:** [Precision: 95.0% | recall: 85.38% | F1-score: 89.89% | AUC-ROC: 99.2% | Dataset size: 53,420 rows × 142 features]
 
-### 🏦 [x-scrm: Explainable Third-Party Cyber Risk](https://github.com/Tshepo97-codE/x-scrm)
+### 🏦 [X-SCRM: Explainable Supply Chain Risk Management](https://github.com/Tshepo97-codE/x-scrm)
 
-An explainable AI system that helps financial institutions assess, understand, and mitigate cyber risks introduced by third-party vendors.
+An AI-assisted third-party cybersecurity risk assessment platform that combines rule-based scoring and machine learning to identify, classify and explain vendor risks, supporting more informed Third-Party Risk Management (TPRM) decisions.
 
-**Stack:** Python, machine learning, explainable AI  
-Output: [Achieved 100% recall in detecting High-risk vendors (21/21) using a validation-tuned Random Forest classifier, with 50% precision on a synthetic 10,000-vendor dataset.]
+**Stack:** Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit, Matplotlib
+
+**Output:** Achieved 100% High-risk vendor detection recall (21/21) with 50% precision using a validation-tuned Random Forest classifier evaluated on a synthetic dataset of 10,000 vendors.
 
 ### 🧬 [Discovery LifeOS - Discovery GradHack](https://github.com/Tshepo97-codE/Discovery-LifeOs)
 
