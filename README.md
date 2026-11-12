@@ -53,6 +53,7 @@ A fraud-detection project covering the full workflow from exploratory analysis t
 - Containerised the system and added a CI/CD pipeline
 
 **Stack:** Python, scikit-learn, imbalanced-learn, SHAP, Flask, Streamlit, Docker, GitHub Actions  
+
 **Result:** [Precision: 95.0% | recall: 85.38% | F1-score: 89.89% | AUC-ROC: 99.2% | Dataset size: 53,420 rows × 142 features]
 
 ### 🏦 [X-SCRM: Explainable Supply Chain Risk Management](https://github.com/Tshepo97-codE/x-scrm)
