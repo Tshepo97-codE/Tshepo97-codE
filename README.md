@@ -60,7 +60,7 @@ A fraud-detection project covering the full workflow from exploratory analysis t
 An explainable AI system that helps financial institutions assess, understand, and mitigate cyber risks introduced by third-party vendors.
 
 **Stack:** Python, machine learning, explainable AI  
-**Output:** [Add the risk score, explanation output, model metric, or demo result.] In progress
+Output: [Achieved 100% recall in detecting High-risk vendors (21/21) using a validation-tuned Random Forest classifier, with 50% precision on a synthetic 10,000-vendor dataset.]
 
 ### 🧬 [Discovery LifeOS - Discovery GradHack](https://github.com/Tshepo97-codE/Discovery-LifeOs)
 
